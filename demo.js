@@ -59,7 +59,9 @@ Private:
  Probeer de interface te maken
 
 */
-
+let demo =  new DemoAccessControl();
+demo.aNumber = 20;
+demo.setAnOtherNumber(30);
 
 
 
